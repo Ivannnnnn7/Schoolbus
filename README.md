@@ -10,9 +10,3 @@ Les bus aux US
 - *Arrêt obligatoire* des autres véhicules.
 - *Formation* des conducteurs.
 
-## __Utilisation__
-- *🇺🇸🇨🇦 Standard*.
-- *🇫🇷 Signalétique spéciale*.
-- *🇯🇵 Minibus*.
-
-> *"__Sécurité avant tout !__ "*
